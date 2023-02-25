@@ -1,0 +1,23 @@
+.header{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headingcontainer{
+
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headingcontainer button{
+    width: 12%;
+    height: 30%;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
